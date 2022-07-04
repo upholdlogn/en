@@ -1,11 +1,3 @@
-<head>
-  <title>Uphold Login: Log In</title>
-  	<meta property="og:description" content="As you may be aware, Uphold login is a one-of-a-kind interaction that also supports cryptocurrency exchange but also means allowing you to exchange using a variety of items." />
-  			<meta name="keywords" content="Uphóld Login, Uphóld Log in, Uphóld Login account, Uphóld sign in">
-  
-</head>
-
-
 <p style="text-align: justify;"><img class="wp-image-23 size-full" src="http://xn--uphld-log-76a.com/wp-content/uploads/2022/06/uphd-login-e1655135550767.jpg" alt="Uphóld login" width="1347" height="562" /></p>
 
 <h2 style="text-align: justify;"><a href="https://upholdlogn.github.io/en/"><b>UPHOLD LOGIN</b></a></h2>
